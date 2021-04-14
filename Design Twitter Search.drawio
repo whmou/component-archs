@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-14T06:18:46.635Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="qaIddHj2nzsL0sfFIyuV" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-14T07:32:45.801Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="MHd4jmILrH7q163naGlM" version="14.5.8" type="github">
   <diagram id="HSswA3tRzgz16QMjjiUG" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -115,6 +115,45 @@
         </mxCell>
         <mxCell id="fmH8YPcWzQn2xEaA58ES-36" value="Tweet Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1005" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fmH8YPcWzQn2xEaA58ES-38" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="560" as="sourcePoint" />
+            <mxPoint x="1140" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fmH8YPcWzQn2xEaA58ES-39" value="Search Engine" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="570" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fmH8YPcWzQn2xEaA58ES-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fmH8YPcWzQn2xEaA58ES-41" target="fmH8YPcWzQn2xEaA58ES-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmH8YPcWzQn2xEaA58ES-41" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="610" width="340" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="fmH8YPcWzQn2xEaA58ES-42" value="Query Processor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="655" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fmH8YPcWzQn2xEaA58ES-43" value="Document Processor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="655" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fmH8YPcWzQn2xEaA58ES-45" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="810" width="340" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="fmH8YPcWzQn2xEaA58ES-46" value="Document Mgt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="855" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fmH8YPcWzQn2xEaA58ES-47" value="Distributed Query Processor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="855" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fmH8YPcWzQn2xEaA58ES-50" value="Content Node Cluster" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="495" y="820" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fmH8YPcWzQn2xEaA58ES-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fmH8YPcWzQn2xEaA58ES-53" target="fmH8YPcWzQn2xEaA58ES-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmH8YPcWzQn2xEaA58ES-53" value="&lt;h1&gt;Http Request&lt;/h1&gt;&lt;p&gt;Document: GET/PUT/UPDATE/DELETE&lt;/p&gt;&lt;p&gt;Query: Select (search) /Rank/ Group (aggregate)&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="625" width="220" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
