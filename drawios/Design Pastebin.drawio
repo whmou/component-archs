@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-04-16T03:57:28.177Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="deTXfS_POsEhSp-HpHyb" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-16T04:53:12.306Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="p1JlBDAOwEfv7Q14BgNU" version="14.6.0" type="github">
   <diagram id="VEV3Uc24vwXsZR_ko1ef" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QWQkXZekbUVryVGH4yMC-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="30" width="200" height="380" as="geometry" />
+        </mxCell>
         <mxCell id="QWQkXZekbUVryVGH4yMC-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QWQkXZekbUVryVGH4yMC-2" target="QWQkXZekbUVryVGH4yMC-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -70,17 +73,38 @@
         <mxCell id="QWQkXZekbUVryVGH4yMC-22" value="LB" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="410" y="195" width="270" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QWQkXZekbUVryVGH4yMC-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QWQkXZekbUVryVGH4yMC-23" target="QWQkXZekbUVryVGH4yMC-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QWQkXZekbUVryVGH4yMC-23" value="APP Server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="625" y="90" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QWQkXZekbUVryVGH4yMC-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QWQkXZekbUVryVGH4yMC-24" target="QWQkXZekbUVryVGH4yMC-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QWQkXZekbUVryVGH4yMC-24" value="APP Server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="625" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QWQkXZekbUVryVGH4yMC-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QWQkXZekbUVryVGH4yMC-25" target="QWQkXZekbUVryVGH4yMC-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QWQkXZekbUVryVGH4yMC-25" value="APP Server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="625" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QWQkXZekbUVryVGH4yMC-26" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="665" y="260" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QWQkXZekbUVryVGH4yMC-27" value="one time cache" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QWQkXZekbUVryVGH4yMC-28" value="cache with TTL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QWQkXZekbUVryVGH4yMC-29" value="Paste DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="995" y="270" width="90" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="QWQkXZekbUVryVGH4yMC-34" value="clean up process" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="292.5" width="140" height="67.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
