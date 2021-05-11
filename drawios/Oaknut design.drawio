@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-11T07:13:55.221Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="6FPJwy800zBC1HdK-Ndo" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-11T07:14:03.762Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="y0aR_vFKeYI7xmw-x6He" version="14.6.0" type="github">
   <diagram id="aoj3swG1tekXxO3n4QQ1" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -107,7 +107,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dGbaAbXwnzKEN-AZl7wk-1" value="AWS s3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dGbaAbXwnzKEN-AZl7wk-1" value="AWS S3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dGbaAbXwnzKEN-AZl7wk-6" value="trends hubble grid" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
