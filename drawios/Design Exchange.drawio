@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-04T14:44:55.793Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="KzlPRyuQMwAQZAkL_3lX" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-04T14:53:25.865Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="Hx_vrzGrbhpkzM9irecr" version="14.8.4" type="github">
   <diagram id="bY-Eiq5B4Y1L39nDWaPA" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -99,7 +99,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="U9HXg87GdfsvRDTg_hJd-29" value="Stock DB" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="U9HXg87GdfsvRDTg_hJd-29" value="Stock Transaction DB" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="670" width="90" height="120" as="geometry" />
         </mxCell>
         <mxCell id="U9HXg87GdfsvRDTg_hJd-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U9HXg87GdfsvRDTg_hJd-31" target="U9HXg87GdfsvRDTg_hJd-33">
