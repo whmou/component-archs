@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-04T14:39:04.146Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="lS5oSrpv8bq4KsJMqu1Z" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-04T14:44:55.793Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="KzlPRyuQMwAQZAkL_3lX" version="14.8.4" type="github">
   <diagram id="bY-Eiq5B4Y1L39nDWaPA" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -92,8 +92,60 @@
         <mxCell id="U9HXg87GdfsvRDTg_hJd-24" value="Bid in-memory DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="490" y="515" width="120" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="U9HXg87GdfsvRDTg_hJd-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U9HXg87GdfsvRDTg_hJd-29" target="U9HXg87GdfsvRDTg_hJd-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="755" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="U9HXg87GdfsvRDTg_hJd-29" value="Stock DB" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="670" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="U9HXg87GdfsvRDTg_hJd-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U9HXg87GdfsvRDTg_hJd-31" target="U9HXg87GdfsvRDTg_hJd-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U9HXg87GdfsvRDTg_hJd-31" value="Ticker MQ" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="580" y="910" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U9HXg87GdfsvRDTg_hJd-33" value="Ticker App Server" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U9HXg87GdfsvRDTg_hJd-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U9HXg87GdfsvRDTg_hJd-36" target="U9HXg87GdfsvRDTg_hJd-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U9HXg87GdfsvRDTg_hJd-36" value="User with Ticker Req" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="625" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U9HXg87GdfsvRDTg_hJd-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U9HXg87GdfsvRDTg_hJd-38" target="U9HXg87GdfsvRDTg_hJd-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U9HXg87GdfsvRDTg_hJd-38" value="User with Ticker Req" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="715" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U9HXg87GdfsvRDTg_hJd-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U9HXg87GdfsvRDTg_hJd-40" target="U9HXg87GdfsvRDTg_hJd-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U9HXg87GdfsvRDTg_hJd-40" value="User with Ticker Req" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="835" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U9HXg87GdfsvRDTg_hJd-41" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="110" y="795" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="U9HXg87GdfsvRDTg_hJd-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U9HXg87GdfsvRDTg_hJd-42" target="U9HXg87GdfsvRDTg_hJd-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U9HXg87GdfsvRDTg_hJd-42" value="LB" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="145" y="730" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U9HXg87GdfsvRDTg_hJd-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U9HXg87GdfsvRDTg_hJd-44" target="U9HXg87GdfsvRDTg_hJd-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U9HXg87GdfsvRDTg_hJd-44" value="Ticker App Server" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U9HXg87GdfsvRDTg_hJd-45" value="Ticker prices DB" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1060" width="100" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
