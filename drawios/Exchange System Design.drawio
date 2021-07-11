@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-11T13:24:21.690Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="JK2dfyFYkwdUepp1Vo9R" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-11T13:29:28.524Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="Z-VdenmS8_1RYqW9Fg2e" version="14.8.5" type="github">
   <diagram id="xpwXJV_NrRu8wcvEEFKE" name="Page-1">
     <mxGraphModel dx="868" dy="1550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -149,6 +149,18 @@
         </mxCell>
         <mxCell id="jyq4KqrySVWzgWhNvjoU-53" value="currency_names&#xa;currency_id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="jyq4KqrySVWzgWhNvjoU-52">
           <mxGeometry y="26" width="160" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="jyq4KqrySVWzgWhNvjoU-54" value="Exchange Rate Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="371" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jyq4KqrySVWzgWhNvjoU-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jyq4KqrySVWzgWhNvjoU-55" target="jyq4KqrySVWzgWhNvjoU-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jyq4KqrySVWzgWhNvjoU-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.013;entryY=0.87;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jyq4KqrySVWzgWhNvjoU-55" target="jyq4KqrySVWzgWhNvjoU-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jyq4KqrySVWzgWhNvjoU-55" value="Exchange Rate&lt;br&gt;Cache" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="371" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
