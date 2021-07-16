@@ -1,9 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2021-07-16T03:24:06.590Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="amVb4Yllow5JdRI3GX5a" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-16T03:40:20.291Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="HcBBliFJJFXCGoIk3Lgw" version="14.8.5" type="github">
   <diagram id="FJT3EdVLjgwq2iVrfuaf" name="Page-1">
-    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="1550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MxKaTCPz04sXQIFcnDnJ-49" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="110" width="160" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="MxKaTCPz04sXQIFcnDnJ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.996;entryY=0.618;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MxKaTCPz04sXQIFcnDnJ-37" target="MxKaTCPz04sXQIFcnDnJ-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="870" y="605" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MxKaTCPz04sXQIFcnDnJ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MxKaTCPz04sXQIFcnDnJ-37" target="MxKaTCPz04sXQIFcnDnJ-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="870" y="-10" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MxKaTCPz04sXQIFcnDnJ-37" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="110" width="180" height="300" as="geometry" />
         </mxCell>
@@ -15,6 +32,13 @@
         </mxCell>
         <mxCell id="MxKaTCPz04sXQIFcnDnJ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MxKaTCPz04sXQIFcnDnJ-24" target="MxKaTCPz04sXQIFcnDnJ-26">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxKaTCPz04sXQIFcnDnJ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MxKaTCPz04sXQIFcnDnJ-24" target="MxKaTCPz04sXQIFcnDnJ-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="870" y="600" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="MxKaTCPz04sXQIFcnDnJ-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="346.25" y="500" width="202.5" height="170" as="geometry" />
@@ -52,7 +76,7 @@
         <mxCell id="MxKaTCPz04sXQIFcnDnJ-9" value="LB" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="155" y="225" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MxKaTCPz04sXQIFcnDnJ-10" value="Upload/ watch/&lt;br&gt;meta" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MxKaTCPz04sXQIFcnDnJ-10" value="Upload/&amp;nbsp;&lt;br&gt;meta" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="80" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="MxKaTCPz04sXQIFcnDnJ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MxKaTCPz04sXQIFcnDnJ-11" target="MxKaTCPz04sXQIFcnDnJ-18">
@@ -111,6 +135,24 @@
         </mxCell>
         <mxCell id="MxKaTCPz04sXQIFcnDnJ-33" value="Transcoding Server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MxKaTCPz04sXQIFcnDnJ-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MxKaTCPz04sXQIFcnDnJ-40" target="MxKaTCPz04sXQIFcnDnJ-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxKaTCPz04sXQIFcnDnJ-40" value="CDN (ex: cloudfront)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="-40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MxKaTCPz04sXQIFcnDnJ-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MxKaTCPz04sXQIFcnDnJ-44" target="MxKaTCPz04sXQIFcnDnJ-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxKaTCPz04sXQIFcnDnJ-44" value="Media Storage" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="686.25" y="-50" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MxKaTCPz04sXQIFcnDnJ-47" value="Media info" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="646.25" y="-160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MxKaTCPz04sXQIFcnDnJ-48" value="clips by resolutions&lt;br&gt;ex: 480p, 1080p,..." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="MxKaTCPz04sXQIFcnDnJ-47">
+          <mxGeometry y="25" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
