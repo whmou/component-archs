@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-08T14:34:12.492Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4.1 Safari/605.1.15" etag="1US-jl_Ewg8SYk9B9dia" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-08T14:35:05.020Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4.1 Safari/605.1.15" etag="ejCFfDhGAq45J_ycfLHF" version="21.2.9" type="github">
   <diagram id="aoj3swG1tekXxO3n4QQ1" name="Page-1">
-    <mxGraphModel dx="990" dy="854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="990" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,7 +100,7 @@
         <mxCell id="z3XUsXF2Qn8Yz3vl9ZlV-25" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="665" y="260" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="z3XUsXF2Qn8Yz3vl9ZlV-29" value="NewsFeed Cache" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="z3XUsXF2Qn8Yz3vl9ZlV-29" value="NewsFeed Cache &amp;amp; DB" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z3XUsXF2Qn8Yz3vl9ZlV-33" value="" style="endArrow=none;html=1;" parent="1" edge="1">
